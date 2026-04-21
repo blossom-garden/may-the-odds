@@ -17,7 +17,7 @@ defaults:
     shell: nu {0}
 
 env:
-  modrinth-project-id: ""
+  modrinth-project-id: "NrOJ6Iod"
 
 jobs:
   export:
@@ -69,7 +69,7 @@ jobs:
           tag: ${{ steps.info.outputs.version }}
           name: ${{ steps.info.outputs.name }}-${{ steps.info.outputs.game-versions }}-${{ steps.info.outputs.version }}
 
-      - if: env.modrinth-project-id != ''
+      - if: env.modrinth-project-id != '' && inputs.modrinth-release
         uses: cloudnode-pro/modrinth-publish@v2
         with:
           token: ${{ secrets.MODRINTH_TOKEN }}
