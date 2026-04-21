@@ -1,11 +1,16 @@
-# Modpack Packwiz Template
+# May The Odds...
 
-## Includes
+This _modpack_ was created for an event between friends inspired by the Hunger Games.
+The mod list was choosen with exploration and combat in mind.
 
-- workflow for exporting and uploading modpack
-- preconfigured workflow for nix development
-- preconfigured gitignore and packwizignore
-- [LICENSE](./LICENSE), [CHANGELOG-LATEST](./CHANGELOG-LATEST.md) and [CHANGELOG](./CHANGELOG.md)
-  files (use CHANGELOG-LATEST.md to include the "current" version's changelog)
-- [import-modlist.nu](./import-modlist.nu) script to import from a list of mod
-  urls, either from modrinth or curseforge
+The most important ones include [Better Combat](https://modrinth.com/project/5sy6g3kz "Better Combat") and its addons from the RPG Series.
+
+It was also included some personal preferences mods such as the [Create Mod](https://modrinth.com/project/LNytGWDc "Create :D") and the new kid in school [Create Aeronautics](https://modrinth.com/project/oWaK0Q19 "Aeronautics, after so many years...")
+
+
+<details>
+<summary>Modlist</summary>
+
+- To be written
+
+</details>
