@@ -13,3 +13,4 @@
 *.nu
 *.sh
 dependencies.*
+.prettierrc
