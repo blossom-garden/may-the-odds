@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "icon.png"
+hash = "4e1b3ec3b370b41054067a4639a9199927a71e2201fb1a9e54ed628fed3813ca"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
@@ -43,11 +47,6 @@ metafile = true
 [[files]]
 file = "mods/arsenal-rpg-series.pw.toml"
 hash = "ec014d5f3a17c0daad38840adc7b5de98de7dacdf9826c32c4c5f6389d27e5cb"
-metafile = true
-
-[[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
 metafile = true
 
 [[files]]
@@ -106,11 +105,6 @@ hash = "9bb81c87fca7a6429a10e18ad8665fb9accd758f53737f1a5543787be8308e51"
 metafile = true
 
 [[files]]
-file = "mods/config-manager.pw.toml"
-hash = "3757f239ee279e9e2f0f9201f3aef8d671684958212cc10f489fc4092ba74ba8"
-metafile = true
-
-[[files]]
 file = "mods/connector.pw.toml"
 hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
 metafile = true
@@ -118,11 +112,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "1535959dee48f58307549a024eb101618eeafe54fdee514a73a6d657d98a39e8"
 metafile = true
 
 [[files]]
@@ -156,6 +145,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "cfa46558d85f2e185026317bfba12f11674202c05e91a79c44cc1106a3503695"
+metafile = true
+
+[[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
@@ -186,6 +180,11 @@ hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
 metafile = true
 
 [[files]]
+file = "mods/fa-player-extension-compat.pw.toml"
+hash = "2e0f5441336f5c080df145c9dd633196bd42888a32fbfd0163913bac6fd2cb72"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
@@ -206,6 +205,16 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "46fd3a8062699383239729b7f4937fdd83177581492d3b12c8ad74dd52bfe05a"
 metafile = true
@@ -223,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "b00d95521c30ec7a29440ef9c6f32e91300450bf3ad098b2a63ebbe7cb5b43c8"
 metafile = true
 
 [[files]]
@@ -416,13 +430,18 @@ hash = "2c6eb75d262805c3a7e4d7ccb0a964c67511206fbdd1711504f41d538c62c237"
 metafile = true
 
 [[files]]
+file = "mods/spooky-doors.pw.toml"
+hash = "24c08cd3a5285d0e4876c237f2f1fecadf25efa19bbbc8718dd8e66d27e229a8"
+metafile = true
+
+[[files]]
 file = "mods/srdp.pw.toml"
 hash = "c40cd6e94191418cc6f334ffc37d55f09064ab19623ea119b2e74c9688d82109"
 metafile = true
 
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
-hash = "1e29968c1d8f6c6ff9de68ceb1f4a477fbf2ebd404ccf6ed59e8c9c2c4285d95"
+hash = "b43fd8343ee66b129ea22bcd7ba47ad392e7edc33cb24be0ed604b2225ed0229"
 metafile = true
 
 [[files]]
@@ -491,6 +510,11 @@ hash = "337bd002913e46fd172088c5f359d139be6350fb9e19062addeb41a1e89bf309"
 [[files]]
 file = "resourcepacks/attribute-icons-rpg-series.pw.toml"
 hash = "469666c31566b34351b044720e9ff920850e01f3c0350c74973fa9ff0b6a8aec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension-x-better-combat.pw.toml"
+hash = "135fea42667366e9eaad1fa0df56eb014fbc7223f7166704218377c74388dfa6"
 metafile = true
 
 [[files]]
@@ -582,3 +606,7 @@ metafile = true
 file = "resourcepacks/wisps-colourful-wildflowers.pw.toml"
 hash = "051090b5ee11bb3553056e7f74b1eec3a8fc07187e4dc5e3d75ae6baae84d4c2"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "51b41ad989973ee796cfbd59b764e7d059ec6ce9ad86e68bf25f3105932cb268"
