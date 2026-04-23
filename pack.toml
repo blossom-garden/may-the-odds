@@ -1,0 +1,16 @@
+name = "May the Odds"
+author = "kodiitulip"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8619f8c941f9623cab8a2f915071049e02820320324a4de984659d987fb5df7a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
+
+[options]
+datapack-folder = "datapacks"

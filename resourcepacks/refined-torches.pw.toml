@@ -1,0 +1,13 @@
+name = "Refined Torches"
+filename = "Refined Torches 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M6aa729D/versions/PgRV6srT/Refined%20Torches%201.1.zip"
+hash-format = "sha512"
+hash = "575ccedbfccb3a7ac9334b387cb9a617433309d47ce47b172a2447a75d76a8f8d79bc3ffb3176bace85ce4ed670b3681495efcaa5cc3def8db0b4119bf3a4d3d"
+
+[update]
+[update.modrinth]
+mod-id = "M6aa729D"
+version = "PgRV6srT"

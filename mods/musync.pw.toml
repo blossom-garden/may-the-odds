@@ -1,0 +1,13 @@
+name = "MUSYNC - Music Sync for Minecraft"
+filename = "musync-neoforge-1.21.1+1.9.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pdt1iYTy/versions/OMgtDysx/musync-neoforge-1.21.1%2B1.9.4.jar"
+hash-format = "sha512"
+hash = "3436892ea796cf943f083007c0451c20738bb6fc5a92ebf98ffe573bdd4b1955830033d6a8e07586f28359c71669048fb3368a2286d1fa6a62698a572bd6efcc"
+
+[update]
+[update.modrinth]
+mod-id = "Pdt1iYTy"
+version = "OMgtDysx"
