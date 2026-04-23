@@ -1,7 +1,7 @@
 <!-- markdownlint-disable line-length -->
 <!-- markdownlint-disable no-inline-html -->
 
-# <p align="center"><img src="./.github/attachments/minecraft_title.png" alt="Modpack Logo"/></p><br/> May The Odds
+# <p align="center"><img src="./.github/attachments/minecraft_title_readme.png" alt="Modpack Logo"/></p><br/> May The Odds
 
 This _modpack_ was created for an event between friends inspired by the Hunger Games.
 The mod list was choosen with exploration and combat in mind.
