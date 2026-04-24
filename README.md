@@ -1,9 +1,7 @@
 <!-- markdownlint-disable no-inline-html -->
 <!-- markdownlint-disable first-line-h1 -->
 
-<p align="center">
-    <img src="./.github/attachments/minecraft_title_readme.png" alt="Modpack Logo"/>
-</p>
+![Modpack Horizontal Logo, including the modpacks name "May The Odds" and some icons of a heart and 2 dark skulls](.github/attachments/minecraft_title_readme.png 'Modpack Logo')
 
 # May The Odds
 
