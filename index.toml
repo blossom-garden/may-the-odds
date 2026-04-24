@@ -539,16 +539,6 @@ hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
 metafile = true
 
 [[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "ca37901ce16f10e30715edf354b5d08c500e60abdb7ce64da79ce04a3d880ced"
-metafile = true
-
-[[files]]
-file = "mods/vb-mob-variants-compat.pw.toml"
-hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
-metafile = true
-
-[[files]]
 file = "mods/voice-chat-global-spectator-chat.pw.toml"
 hash = "2fd991d66291d7f368465e8413382e080594bdd820c081c43f11b8237fdd1820"
 metafile = true
@@ -567,14 +557,6 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
-
-[[files]]
-file = "resourcepacks/FA+Player-vJE.zip"
-hash = "eb4dc993e8764b3762a1e56ec3e8714a295fd0061b815f99da2e1cd467456062"
-
-[[files]]
-file = "resourcepacks/Ghasts Galore! Updated.zip"
-hash = "337bd002913e46fd172088c5f359d139be6350fb9e19062addeb41a1e89bf309"
 
 [[files]]
 file = "resourcepacks/attribute-icons-rpg-series.pw.toml"
