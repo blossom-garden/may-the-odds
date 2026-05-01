@@ -59,6 +59,11 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+hash = "ed0494f406f8e07efc2b27c394c7c2efe5c0be3a4dc96f00cb7ed3c7b9021648"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
@@ -91,11 +96,6 @@ metafile = true
 [[files]]
 file = "mods/arsenal-rpg-series.pw.toml"
 hash = "ec014d5f3a17c0daad38840adc7b5de98de7dacdf9826c32c4c5f6389d27e5cb"
-metafile = true
-
-[[files]]
-file = "mods/axiom.pw.toml"
-hash = "6566e83cbcd57285aa094a4cf12a2e7bec9336981c62cbb6827db5f32db93f26"
 metafile = true
 
 [[files]]
@@ -151,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "9bb81c87fca7a6429a10e18ad8665fb9accd758f53737f1a5543787be8308e51"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
 metafile = true
 
 [[files]]
@@ -244,11 +249,6 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/flashback.pw.toml"
-hash = "17b5f092706cec38125745439bacde36e7d1e6f19cdac6c7c632843bc34ea9d9"
-metafile = true
-
-[[files]]
 file = "mods/flerovium.pw.toml"
 hash = "ba78231dfcbe61e2df15ff861fad0bc6c6594ba1425280ae0de86a044407d07e"
 metafile = true
@@ -256,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
+file = "mods/gaia.pw.toml"
+hash = "e0a4e0b606bdc9830352506d01123f739dae28e47ba24789879b034c66771595"
 metafile = true
 
 [[files]]
@@ -330,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/motion-capture.pw.toml"
-hash = "4daec37c3c7e5624fc7482682f7ce27be11bf5ee72ba264d3e784b061eb3fb37"
+hash = "095fd5ca7e7b05ab0b103e293a3d800767d06292278874a77e1cd2f52fe961da"
 metafile = true
 
 [[files]]
@@ -429,13 +434,13 @@ hash = "e35cf7c4bfef1d4cf8158c4df9134b93bce4f99e00829aa3d48912b7beffc0b7"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
+file = "mods/runes.pw.toml"
+hash = "2b20f4d643cad01eaffaeb1602d9af25195e133e9b94ac96d1a3a0bed2c83086"
 metafile = true
 
 [[files]]
-file = "mods/runes.pw.toml"
-hash = "2b20f4d643cad01eaffaeb1602d9af25195e133e9b94ac96d1a3a0bed2c83086"
+file = "mods/sable-(create-aeronautics)-collision-damage.pw.toml"
+hash = "56fbed989cd7a0064f559d46d59c4e66cfa6ecc17b3692780bdd0dfc0878fd24"
 metafile = true
 
 [[files]]
@@ -551,6 +556,11 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "4fe6cc0f09a168ed71d96a30f67570ce76e0c3fa668adde71bd216cfd2b0541f"
+metafile = true
+
+[[files]]
+file = "mods/world-border-evolved.pw.toml"
+hash = "c48bdef3b9f0eeb831fabcf578b7e0e667212c75e08ee419cd991356de15e132"
 metafile = true
 
 [[files]]
