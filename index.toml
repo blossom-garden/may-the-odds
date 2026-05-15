@@ -49,16 +49,6 @@ hash = "87a042e342be9cc2c2ce9fa4f728fa0f93fa290c5b078ec620e6e8dcfae68741"
 metafile = true
 
 [[files]]
-file = "mods/aeromancy-additions.pw.toml"
-hash = "dd046d19a50472720fa06222be85b4f462d0a3eb75b3842e17cba4d236842147"
-metafile = true
-
-[[files]]
-file = "mods/alshanexs-familiars.pw.toml"
-hash = "c3bc9b64c23d246a4c0b7a456ced39c8eb2a92e0ebbdaa060c3d82ea6de2fc89"
-metafile = true
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
