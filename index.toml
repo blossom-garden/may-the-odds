@@ -238,6 +238,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/deployer.pw.toml"
+hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "345f384d5c4faaf1e7d47a0d42817370db6aaed10610fae34f069a0d15fd0066"
 metafile = true
@@ -289,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairylights.pw.toml"
-hash = "59483690d942cf3e2c1a9b89e279a9efbf0525ff2d9b5591c4fd41b749830604"
+hash = "64b333f6b335e3c1edd5fac97a88ac7ae56c4f7ccbafb652fa887dfe4a54a4fd"
 metafile = true
 
 [[files]]
@@ -578,6 +583,11 @@ hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
 metafile = true
 
 [[files]]
+file = "mods/simulated-gauges.pw.toml"
+hash = "b131faa1c8ca8217f5d52612d4b41f8f8f019488f6b1e3bfee065ca82c21bdfb"
+metafile = true
+
+[[files]]
 file = "mods/skill-tree.pw.toml"
 hash = "24cb3b9895dc5026be8c92177cb0d90a843c00ea29782ce5ff63766360e3a57d"
 metafile = true
@@ -665,6 +675,16 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "ef870d22b5ee7e2718a1d849680d25103aae0f5a0b7c569b99032803ea772e68"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "05fe3823b0d3b91b9ecd6ce95409eb1a959054492f946aed85b2ae8f5a960e35"
+metafile = true
+
+[[files]]
+file = "mods/vb-mob-variants-compat.pw.toml"
+hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
 metafile = true
 
 [[files]]
